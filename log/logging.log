@@ -1,0 +1,275 @@
+[INFO ] 2017-01-31 20:49:22.960 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 21:07:02.096 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 21:07:15.591 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 21:07:15.592 [main] MainBelavia - Finished
+[INFO ] 2017-01-31 21:29:59.954 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 21:30:05.925 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-01-31 21:30:07.237 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 21:30:07.549 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 21:30:08.744 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 21:30:08.745 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 21:30:08.873 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 21:30:09.306 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-01-31 21:30:09.307 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 21:30:09.307 [main] MainBelavia - Finished
+[INFO ] 2017-01-31 21:35:09.402 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 21:35:17.379 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-01-31 21:35:18.496 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 21:35:18.847 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 21:35:19.900 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 21:35:19.901 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 21:35:20.013 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 21:35:21.530 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 21:35:21.769 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 21:35:22.538 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 21:35:22.539 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 21:35:22.628 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 21:35:24.067 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-01-31 21:35:24.067 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 21:35:24.067 [main] MainBelavia - Finished
+[INFO ] 2017-01-31 21:44:35.974 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 21:44:42.740 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-01-31 21:44:43.699 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 21:44:43.944 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 21:44:44.967 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 21:44:44.968 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 21:44:45.391 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 21:44:46.749 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 21:44:46.969 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 21:44:47.692 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 21:44:47.692 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 21:44:48.974 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 21:44:49.942 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 21:44:50.178 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 21:44:50.932 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 21:44:50.932 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 21:44:51.395 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-01-31 21:44:51.396 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 21:44:51.396 [main] MainBelavia - Finished
+[INFO ] 2017-01-31 21:55:01.264 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 21:55:07.168 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-01-31 21:55:08.604 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 21:55:08.960 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 21:55:10.278 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 21:55:10.278 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 21:55:10.636 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 21:55:10.996 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-01-31 21:55:10.996 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 21:55:10.997 [main] MainBelavia - Finished
+[INFO ] 2017-01-31 21:58:44.558 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 21:58:49.265 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-01-31 21:58:50.186 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 21:58:50.430 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 21:58:51.405 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 21:58:51.406 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 21:58:51.703 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 21:58:53.201 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 21:58:53.436 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 21:58:54.190 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 21:58:54.190 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 21:58:54.387 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 21:58:54.971 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-01-31 21:58:54.972 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 21:58:54.972 [main] MainBelavia - Finished
+[INFO ] 2017-01-31 22:03:38.981 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 22:03:43.861 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-01-31 22:03:44.939 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 22:03:45.257 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 22:03:46.695 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 22:03:46.696 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 22:03:47.029 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 22:03:49.501 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 22:03:49.835 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 22:03:50.986 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 22:03:50.986 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 22:03:51.436 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-01-31 22:03:51.436 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 22:03:51.436 [main] MainBelavia - Finished
+[INFO ] 2017-01-31 22:05:52.282 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 22:05:57.945 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-01-31 22:05:59.078 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 22:05:59.415 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 22:06:00.659 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 22:06:00.660 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 22:06:02.087 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 22:06:02.971 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-01-31 22:06:02.972 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 22:06:02.972 [main] MainBelavia - Finished
+[INFO ] 2017-01-31 22:08:54.527 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 22:08:59.512 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-01-31 22:09:00.606 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 22:09:00.863 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 22:09:01.943 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 22:09:01.944 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 22:09:03.114 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 22:09:03.981 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 22:09:04.224 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 22:09:05.009 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 22:09:05.010 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 22:09:05.830 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 22:09:06.962 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 22:09:07.196 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 22:09:07.884 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 22:09:07.884 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 22:09:08.440 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 22:09:09.250 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 22:09:09.439 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 22:09:10.116 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 22:09:10.116 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 22:09:10.558 [main] CalendarPricesPage - Went to next PricesMatrix
+[INFO ] 2017-01-31 22:09:10.564 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-01-31 22:09:10.566 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 22:09:10.566 [main] MainBelavia - Finished
+[INFO ] 2017-01-31 22:15:08.406 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 22:15:17.314 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-01-31 22:15:18.702 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 22:15:19.218 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 22:15:21.158 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 22:15:21.159 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 22:15:21.567 [main] CalendarPricesPage - Click to next PricesMatrix nav-right
+[INFO ] 2017-01-31 22:15:21.912 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-01-31 22:15:21.913 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 22:15:21.913 [main] MainBelavia - Finished
+[INFO ] 2017-01-31 22:19:29.203 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 22:19:34.716 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-01-31 22:19:35.785 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 22:19:36.078 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 22:19:37.300 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 22:19:37.301 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 22:19:37.610 [main] CalendarPricesPage - Click to next PricesMatrix nav-right
+[INFO ] 2017-01-31 22:19:38.940 [main] CalendarPricesPage - Click to next PricesMatrix nav-left
+[INFO ] 2017-01-31 22:19:40.590 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 22:19:41.000 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 22:19:42.055 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 22:19:42.056 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 22:19:42.225 [main] CalendarPricesPage - Click to next PricesMatrix nav-right
+[INFO ] 2017-01-31 22:19:42.496 [main] CalendarPricesPage - Click to next PricesMatrix nav-left
+[INFO ] 2017-01-31 22:19:42.899 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-01-31 22:19:42.899 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 22:19:42.900 [main] MainBelavia - Finished
+[INFO ] 2017-01-31 22:55:44.770 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 22:55:50.586 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-01-31 22:55:52.180 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 22:55:52.556 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 22:55:55.027 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 22:55:55.028 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 22:55:55.413 [main] CalendarPricesPage - Click to next PricesMatrix nav-right
+[INFO ] 2017-01-31 22:55:57.795 [main] CalendarPricesPage - Click to next PricesMatrix nav-left
+[INFO ] 2017-01-31 22:56:00.874 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 22:56:01.506 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 22:56:03.710 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 22:56:03.710 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 22:56:03.960 [main] CalendarPricesPage - Click to next PricesMatrix nav-right
+[INFO ] 2017-01-31 22:56:04.354 [main] CalendarPricesPage - Click to next PricesMatrix nav-left
+[INFO ] 2017-01-31 22:56:04.994 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-01-31 22:56:04.994 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 22:56:04.994 [main] MainBelavia - Finished
+[INFO ] 2017-01-31 23:29:29.976 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 23:34:17.054 [main] DriverSingleton - Browser started
+[INFO ] 2017-01-31 23:34:25.817 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 23:38:48.539 [main] DriverSingleton - Browser started
+[INFO ] 2017-01-31 23:41:53.388 [main] DriverSingleton - Browser started
+[INFO ] 2017-01-31 23:42:08.936 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 23:42:42.911 [main] DriverSingleton - Browser started
+[INFO ] 2017-01-31 23:45:22.490 [main] DriverSingleton - Browser started
+[INFO ] 2017-01-31 23:47:52.122 [main] DriverSingleton - Browser started
+[INFO ] 2017-01-31 23:48:13.519 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 23:50:18.611 [main] DriverSingleton - Browser started
+[INFO ] 2017-01-31 23:50:34.134 [main] Steps - FormBelavia filled
+[INFO ] 2017-01-31 23:50:39.559 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-01-31 23:50:40.623 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 23:50:40.897 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-01-31 23:50:42.032 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-01-31 23:50:42.033 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-01-31 23:50:42.255 [main] CalendarPricesPage - Click to next PricesMatrix nav-right
+[INFO ] 2017-01-31 23:50:42.521 [main] CalendarPricesPage - Click to next PricesMatrix nav-left
+[INFO ] 2017-01-31 23:50:43.517 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-01-31 23:50:43.842 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-01-31 23:50:43.842 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-01-31 23:50:43.842 [main] MainBelavia - Finished
+[INFO ] 2017-02-01 00:26:18.444 [main] DriverSingleton - Browser started
+[INFO ] 2017-02-01 00:26:37.689 [main] Steps - FormBelavia filled
+[INFO ] 2017-02-01 00:26:43.407 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-02-01 00:26:44.797 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-02-01 00:26:45.179 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-02-01 00:26:46.910 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-02-01 00:26:46.911 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-02-01 00:26:47.199 [main] CalendarPricesPage - Click to next PricesMatrix nav-right
+[INFO ] 2017-02-01 00:26:47.596 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-02-01 00:26:47.597 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-02-01 00:26:47.597 [main] MainBelavia - Finished
+[INFO ] 2017-02-01 00:41:56.050 [main] DriverSingleton - Browser started
+[INFO ] 2017-02-01 00:42:19.787 [main] Steps - FormBelavia filled
+[INFO ] 2017-02-01 00:42:25.487 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-02-01 00:42:27.230 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-02-01 00:42:27.749 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-02-01 00:42:29.462 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-02-01 00:42:29.463 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-02-01 00:42:29.738 [main] CalendarPricesPage - Click to next PricesMatrix nav-right
+[INFO ] 2017-02-01 00:42:30.232 [main] CalendarPricesPage - Click to next PricesMatrix nav-left
+[INFO ] 2017-02-01 00:42:31.985 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-02-01 00:42:32.236 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-02-01 00:42:33.158 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-02-01 00:42:33.159 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-02-01 00:42:33.359 [main] CalendarPricesPage - Click to next PricesMatrix nav-right
+[INFO ] 2017-02-01 00:42:33.594 [main] CalendarPricesPage - Click to next PricesMatrix nav-left
+[INFO ] 2017-02-01 00:42:34.438 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-02-01 00:42:34.438 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-02-01 00:42:34.439 [main] MainBelavia - Finished
+[INFO ] 2017-02-01 00:57:33.175 [main] DriverSingleton - Browser started
+[INFO ] 2017-02-01 00:57:54.081 [main] Steps - FormBelavia filled
+[INFO ] 2017-02-01 01:00:32.581 [main] DriverSingleton - Browser started
+[INFO ] 2017-02-01 01:00:48.657 [main] Steps - FormBelavia filled
+[INFO ] 2017-02-01 01:03:46.353 [main] DriverSingleton - Browser started
+[INFO ] 2017-02-01 01:03:51.478 [main] HomePage - HomePage opened
+[INFO ] 2017-02-01 01:03:59.999 [main] HomePage - Date set
+[INFO ] 2017-02-01 01:04:02.603 [main] HomePage - Date set
+[INFO ] 2017-02-01 01:04:02.636 [main] HomePage - Hidden field filled
+[INFO ] 2017-02-01 01:04:02.778 [main] HomePage - Hidden field filled
+[INFO ] 2017-02-01 01:04:03.651 [main] HomePage - Form filled
+[INFO ] 2017-02-01 01:04:03.652 [main] Steps - FormBelavia filled
+[INFO ] 2017-02-01 01:04:10.463 [main] CalendarPricesPage - CalendarPricesPage opened
+[INFO ] 2017-02-01 01:04:12.114 [main] CalendarPricesPage - OutboundDates read
+[INFO ] 2017-02-01 01:04:12.541 [main] CalendarPricesPage - InboundDates read
+[INFO ] 2017-02-01 01:04:14.187 [main] CalendarPricesPage - Prices read
+[INFO ] 2017-02-01 01:04:14.188 [main] CalendarPricesPage - PricesMatrix read
+[INFO ] 2017-02-01 01:04:14.528 [main] CalendarPricesPage - Click to next PricesMatrix nav-right
+[INFO ] 2017-02-01 01:04:15.106 [main] CalendarPricesPage - minPrice add
+[INFO ] 2017-02-01 01:04:15.107 [main] Steps - calendarPricesPage filled 
+[INFO ] 2017-02-01 01:04:15.107 [main] MainBelavia - Finished
+[INFO ] 2017-02-01 01:07:09.036 [main] DriverSingleton - Browser started
+[INFO ] 2017-02-01 01:07:15.550 [main] HomePage - HomePage opened
+[INFO ] 2017-02-01 01:07:24.767 [main] HomePage - Date set
+[INFO ] 2017-02-01 01:07:27.854 [main] HomePage - Date set
+[INFO ] 2017-02-01 01:07:27.895 [main] HomePage - Hidden field filled
+[INFO ] 2017-02-01 01:07:27.938 [main] HomePage - Hidden field filled
+[INFO ] 2017-02-01 01:07:28.099 [main] HomePage - Form filled
+[INFO ] 2017-02-01 01:07:28.100 [main] Steps - FormBelavia filled
+[INFO ] 2017-02-01 01:07:48.244 [main] DriverSingleton - Browser started
+[INFO ] 2017-02-01 01:07:53.051 [main] HomePage - HomePage opened
+[INFO ] 2017-02-01 01:07:58.343 [main] HomePage - Date set
+[INFO ] 2017-02-01 01:08:00.474 [main] HomePage - Date set
+[INFO ] 2017-02-01 01:08:00.506 [main] HomePage - Hidden field filled
+[INFO ] 2017-02-01 01:08:00.548 [main] HomePage - Hidden field filled
+[INFO ] 2017-02-01 01:08:00.709 [main] HomePage - Form filled
+[INFO ] 2017-02-01 01:08:00.709 [main] Steps - FormBelavia filled
+[INFO ] 2017-02-01 01:08:37.080 [main] DriverSingleton - Browser started
+[INFO ] 2017-02-01 01:08:42.080 [main] HomePage - HomePage opened
+[INFO ] 2017-02-01 01:12:05.035 [main] DriverSingleton - Browser started
+[INFO ] 2017-02-01 01:12:11.096 [main] HomePage - HomePage opened
+[INFO ] 2017-02-01 01:12:18.250 [main] HomePage - Date set
+[INFO ] 2017-02-01 01:12:20.715 [main] HomePage - Date set
+[INFO ] 2017-02-01 01:12:20.766 [main] HomePage - Hidden field filled
+[INFO ] 2017-02-01 01:12:20.847 [main] HomePage - Hidden field filled
+[INFO ] 2017-02-01 01:12:21.072 [main] HomePage - Form filled
+[INFO ] 2017-02-01 01:12:21.072 [main] Steps - FormBelavia filled
+[INFO ] 2017-02-01 01:12:51.136 [main] DriverSingleton - Browser started
+[INFO ] 2017-02-01 01:12:55.856 [main] HomePage - HomePage opened
+[INFO ] 2017-02-01 01:13:03.632 [main] HomePage - Date set
+[INFO ] 2017-02-01 01:13:06.412 [main] HomePage - Date set
+[INFO ] 2017-02-01 01:13:06.447 [main] HomePage - Hidden field filled
+[INFO ] 2017-02-01 01:13:06.490 [main] HomePage - Hidden field filled
+[INFO ] 2017-02-01 01:13:06.684 [main] HomePage - Form filled
+[INFO ] 2017-02-01 01:13:06.684 [main] Steps - FormBelavia filled
+[INFO ] 2017-02-01 01:14:29.183 [main] DriverSingleton - Browser started
+[INFO ] 2017-02-01 01:14:45.502 [main] HomePage - HomePage opened
